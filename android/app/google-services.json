@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346458194930",
+    "project_id": "skyrox-396bc",
+    "storage_bucket": "skyrox-396bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346458194930:android:4ac1039012cda1f228216b",
+        "android_client_info": {
+          "package_name": "com.example.skyrox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDq8EKnAynkjOZB3Kd2i1-FT3SuRT3QFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

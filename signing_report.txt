@@ -1,0 +1,123 @@
+﻿> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources UP-TO-DATE
+> Task :gradle:classes UP-TO-DATE
+> Task :gradle:jar UP-TO-DATE
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+Variant: release
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :geolocator_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :package_info_plus:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\yogin.YOGINI-THAKUR\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 69:92:A4:7B:C7:8B:FB:54:18:B7:53:47:5F:61:72:72
+SHA1: 45:07:0F:4A:6A:56:FE:16:7F:78:36:CA:49:25:60:E0:64:B7:9E:B7
+SHA-256: D0:89:80:2C:FC:14:00:B7:F1:2A:41:DA:72:F8:8E:E4:31:88:58:F5:F3:14:46:69:87:69:0D:B7:9F:61:C4:63
+Valid until: Monday, January 31, 2056
+----------
+
+[Incubating] Problems report is available at: file:///C:/Users/yogin.YOGINI-THAKUR/skyrox/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 5s
+11 actionable tasks: 7 executed, 4 up-to-date
